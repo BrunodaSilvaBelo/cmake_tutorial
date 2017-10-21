@@ -9,8 +9,9 @@ ExternalProject_Add(
   GIT_REPOSITORY      https://github.com/philsquared/Catch.git
   GIT_TAG             master
   PREFIX "${CMAKE_SOURCE_DIR}/thirdparty/catch"
-  DOWNLOAD_COMMAND    "git subtree add --prefix . https://github.com/philsquared/Catch.git master --squash"
-  UPLOAD_COMMAND      "git subtree pull --prefix . https://github.com/philsquared/Catch.git master"
+  DOWNLOAD_COMMAND "git subtree add --prefix ${CMAKE_SOURCE_DIR}/thirdparty/catch https://github.com/philsquared/Catch.git master --squash"
+  INSTALL_COMMAND ""
+  LOG_DOWNLOAD ON
   )
 
 # ExternalProject_ADD( coveralls
