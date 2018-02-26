@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/guajar/Desktop/programacao/cpp/cmake/build",
+  "command": "/usr/bin/clang++   -isystem external/include -I../src  -g   -std=gnu++1z -o CMakeFiles/cm.dir/src/main.cpp.o -c /home/guajar/Desktop/programacao/cpp/cmake/src/main.cpp",
+  "file": "/home/guajar/Desktop/programacao/cpp/cmake/src/main.cpp"
+},
+
+{
+  "directory": "/home/guajar/Desktop/programacao/cpp/cmake/build",
+  "command": "/usr/bin/clang++   -isystem external/include -I../src  -g   -Weverything -Wno-c++98-compat -std=gnu++1z -o src/CMakeFiles/libcm.dir/pimpl.cpp.o -c /home/guajar/Desktop/programacao/cpp/cmake/src/pimpl.cpp",
+  "file": "/home/guajar/Desktop/programacao/cpp/cmake/src/pimpl.cpp"
+},
+
+{
+  "directory": "/home/guajar/Desktop/programacao/cpp/cmake/build",
+  "command": "/usr/bin/clang++   -isystem external/include -I../src  -g   -Weverything -Wno-c++98-compat -std=gnu++1z -o src/CMakeFiles/libcm.dir/allocator.cpp.o -c /home/guajar/Desktop/programacao/cpp/cmake/src/allocator.cpp",
+  "file": "/home/guajar/Desktop/programacao/cpp/cmake/src/allocator.cpp"
+},
+
+{
+  "directory": "/home/guajar/Desktop/programacao/cpp/cmake/build",
+  "command": "/usr/bin/clang++   -isystem external/include -I../src  -g   -Weverything -Wno-c++98-compat -std=gnu++1z -o src/CMakeFiles/libcm.dir/entity.cpp.o -c /home/guajar/Desktop/programacao/cpp/cmake/src/entity.cpp",
+  "file": "/home/guajar/Desktop/programacao/cpp/cmake/src/entity.cpp"
+},
+
+{
+  "directory": "/home/guajar/Desktop/programacao/cpp/cmake/build",
+  "command": "/usr/bin/clang++   -Iexternal/include  -g   -std=gnu++1z -o bench/CMakeFiles/cache_bench.dir/cache_locality.cpp.o -c /home/guajar/Desktop/programacao/cpp/cmake/bench/cache_locality.cpp",
+  "file": "/home/guajar/Desktop/programacao/cpp/cmake/bench/cache_locality.cpp"
+},
+
+{
+  "directory": "/home/guajar/Desktop/programacao/cpp/cmake/build",
+  "command": "/usr/bin/clang++   -Iexternal/include  -g   -std=gnu++1z -o bench/CMakeFiles/matrix_bench.dir/matrix_multiplication.cpp.o -c /home/guajar/Desktop/programacao/cpp/cmake/bench/matrix_multiplication.cpp",
+  "file": "/home/guajar/Desktop/programacao/cpp/cmake/bench/matrix_multiplication.cpp"
+}
+]

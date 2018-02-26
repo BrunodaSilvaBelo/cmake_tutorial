@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/google-benchmark"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/google-benchmark.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/google-benchmark-complete.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-install.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-mkdir.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-download.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-update.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-patch.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-configure.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"google-benchmark"
+		],
+		"name" : "google-benchmark"
+	}
+}

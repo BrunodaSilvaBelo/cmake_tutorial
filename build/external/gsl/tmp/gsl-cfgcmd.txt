@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/home/guajar/Desktop/programacao/cpp/cmake/build/external;-DCMAKE_CXX_FLAGS=-Wno-error=sign-conversion;-DCMAKE_BUILD_TYPE=Release;-DGSL_TEST=false;-GNinja;<SOURCE_DIR><SOURCE_SUBDIR>'

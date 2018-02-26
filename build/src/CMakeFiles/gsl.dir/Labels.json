@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/src/CMakeFiles/gsl"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/src/CMakeFiles/gsl.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/src/CMakeFiles/gsl-complete.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/gsl/stamp/gsl-install.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/gsl/stamp/gsl-mkdir.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/gsl/stamp/gsl-download.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/gsl/stamp/gsl-update.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/gsl/stamp/gsl-patch.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/gsl/stamp/gsl-configure.rule"
+		},
+		{
+			"file" : "/home/guajar/Desktop/programacao/cpp/cmake/build/external/gsl/stamp/gsl-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gsl"
+		],
+		"name" : "gsl"
+	}
+}

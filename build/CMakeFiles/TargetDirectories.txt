@@ -1,0 +1,12 @@
+/home/guajar/Desktop/programacao/cpp/cmake/build/CMakeFiles/rebuild_cache.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/CMakeFiles/cm.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/CMakeFiles/edit_cache.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/src/CMakeFiles/rebuild_cache.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/src/CMakeFiles/edit_cache.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/src/CMakeFiles/gsl.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/src/CMakeFiles/libcm.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/rebuild_cache.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/edit_cache.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/cache_bench.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/google-benchmark.dir
+/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/matrix_bench.dir

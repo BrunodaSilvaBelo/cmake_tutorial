@@ -1,0 +1,13 @@
+# Target labels
+ google-benchmark
+# Source files and their labels
+/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/google-benchmark
+/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/google-benchmark.rule
+/home/guajar/Desktop/programacao/cpp/cmake/build/bench/CMakeFiles/google-benchmark-complete.rule
+/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-install.rule
+/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-mkdir.rule
+/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-download.rule
+/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-update.rule
+/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-patch.rule
+/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-configure.rule
+/home/guajar/Desktop/programacao/cpp/cmake/build/external/benchmark/stamp/google-benchmark-build.rule

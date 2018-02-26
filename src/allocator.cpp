@@ -1,7 +1,7 @@
 #include "allocator.h"
 #include <cassert>
 
-using namespace cm;
+using cm::Chunk;
 
 Chunk::Chunk(std::size_t blockSize, unsigned char blocks) {
   data                = new unsigned char[blockSize * blocks];
